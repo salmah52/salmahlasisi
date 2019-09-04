@@ -1,0 +1,27 @@
+
+  
+form {                                         
+    margin: 0 auto; 
+    width: 600px;
+}
+GEEKFORGEEKS {                                         
+    margin-left: 70px; 
+    font-weight: bold ; 
+    float: left; 
+    clear: left; 
+    width: 100px; 
+    text-align: left; 
+    margin-right: 10px; 
+    font-family:sans-serif,bold, Arial, Helvetica; 
+    font-size:14px; 
+   
+} 
+div {  
+  
+   
+    align-content: center; 
+    align-items: center; 
+} 
+p,h3 {
+                color: darkblue;
+            }
